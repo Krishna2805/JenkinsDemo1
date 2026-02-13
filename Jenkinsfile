@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building..'
+                C:\Users\BNMIT\AppData\Local\Programs\Python\Python314\python bin_search.py
             }
         }
         stage('Test') {
